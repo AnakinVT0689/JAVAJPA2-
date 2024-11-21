@@ -1,0 +1,11 @@
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/igu/Principal.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/Automovil1.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/persistencia/exceptions/IllegalOrphanException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/igu/ConsultaAutomovil.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/persistencia/exceptions/NonexistentEntityException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/persistencia/AutomovilJpaController.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/persistencia/ControladoraPersistencia.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/igu/AltaAutomovil.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/logica/Automovil.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/persistencia/exceptions/PreexistingEntityException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Automovil1/src/main/java/com/mycompany/automovil1/logica/Controladora.java
