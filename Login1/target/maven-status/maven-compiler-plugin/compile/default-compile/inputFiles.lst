@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\logica\Controladora.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\logica\Rol.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\Login1.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\ControladoraPersistencia.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\exceptions\PreexistingEntityException.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\logica\Usuario.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\igu\Principal.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\RolJpaController.java
+C:\Users\FAMILIA\Desktop\JAVAJPA\Login1\src\main\java\com\mycompany\login1\persistencia\UsuarioJpaController.java
+=======
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/exceptions/IllegalOrphanException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/igu/PrincipalUser.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/igu/PrincipalAdmin.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/exceptions/NonexistentEntityException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/exceptions/PreexistingEntityException.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/UsuarioJpaController.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/logica/Controladora.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/ControladoraPersistencia.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/logica/Usuario.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/igu/EdicionUsuarios.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/igu/LoginInicial.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/persistencia/RolJpaController.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/logica/Rol.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/Login1.java
+/home/alex-valadez/Escritorio/JAVAJPA/Login1/src/main/java/com/mycompany/login1/igu/AltaUsuarios.java
+>>>>>>> 14eac0bc0ec47ae365081b0c27d68ace2b518c32
